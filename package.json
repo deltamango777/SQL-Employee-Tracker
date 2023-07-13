@@ -1,0 +1,18 @@
+{
+  "name": "week-12-hw-sql-employee-tracker",
+  "version": "1.0.0",
+  "description": "## Your Task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "dotenv": "^16.3.1",
+    "inquirer": "^9.2.7",
+    "mysql2": "^3.5.1"
+  }
+}
