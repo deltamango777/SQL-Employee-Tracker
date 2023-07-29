@@ -15,7 +15,7 @@ I learned about database utility and the further strengths of the cli.
 
 ## Installation
 
-Install the repo and then make sure you are located in the main folder. Then call the appllication via node index. 
+Install the repo and then make sure you are located in the main folder. Then call the application via node index. 
 
 ## Usage
 
@@ -25,7 +25,7 @@ Simply use the arrow keys to navigate and then enter to initiate confirms. Alter
 
 n/a
 
-n/a
+mySQL
 
 n/a
 
