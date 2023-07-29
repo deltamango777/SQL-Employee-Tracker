@@ -21,6 +21,8 @@ Install the repo and then make sure you are located in the main folder. Then cal
 
 Simply use the arrow keys to navigate and then enter to initiate confirms. Alter the data as you see fit. 
 
+https://watch.screencastify.com/v/Elf64SFPGtvs1pR4Qhgh
+
 ## Credits
 
 n/a
